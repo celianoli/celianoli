@@ -22,4 +22,4 @@
 # 📫 Contact
 
 - LinkedIn : [Célian](https://www.linkedin.com/in/tonprofil/)
-- Email : tonemail@example.com
+- Email : [durandcelian.14@icloud.com](mailto:durandcelian.14@icloud.com)
