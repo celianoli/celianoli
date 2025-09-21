@@ -21,5 +21,5 @@
 ---
 # 📫 Contact
 
-- LinkedIn : [Célian](https://www.linkedin.com/in/tonprofil/)
+- LinkedIn : [Célian](https://www.linkedin.com/in/c%C3%A9lian-durand-46b3a92b3/)
 - Email : [durandcelian.14@icloud.com](mailto:durandcelian.14@icloud.com)
