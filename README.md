@@ -1,7 +1,7 @@
 # 👨🏻‍💻 À propos de moi
 
 💡 &nbsp;Je suis **Développeur Junior** en formation au [CFAI](https://www.pole-formation-lda.fr)  
-💼 &nbsp;et en alternance chez **Multiroir Controlec**
+💼 &nbsp;et en alternance chez **Multiroir Controlec**.
 🌱 &nbsp;Je suis en formation pour découvrir le monde du **Web et du développement logiciel**.  
 📫 &nbsp;Vous pouvez me contacter via LinkedIn ou GitHub
 
