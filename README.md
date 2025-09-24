@@ -19,6 +19,18 @@
 ![Windev Mobile](https://img.shields.io/badge/Windev%20Mobile-05122A?style=flat&logo=devdotto&logoColor=white)&nbsp;
 
 ---
+
+# 🌐 Portfolio & Projets
+💼 &nbsp;Découvrez mes projets sur mon [Portfolio en ligne](https://celianoli.github.io/Portfolio/)  
+📂 &nbsp;Mes projets GitHub : [Repositories](https://github.com/celianoli?tab=repositories)
+
+---
+
+# 📊 Statistiques GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=celianoli&show_icons=true&theme=radical)
+
+---
+
 # 📫 Contact
 
 - LinkedIn : [Célian](https://www.linkedin.com/in/c%C3%A9lian-durand-46b3a92b3/)
